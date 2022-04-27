@@ -7,7 +7,7 @@ Hi, I'm [Samruddhi](https://github.com/samu0299), An aspiring full-stack develop
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500" />
   
   
-I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
+I am an detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
 
 - ✍️ You can visit my portfolio at 
 
@@ -48,10 +48,6 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
     <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></code>
     <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea
-
-<a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <br>
 <span><h2 align="center">Languages and Tools:</h2>
   <br>
@@ -59,27 +55,26 @@ if you like what i do, maybe consider buying me a coffee/tea
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
-      <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+      <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/>
 </p></span>
 
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samu0299&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=samu0299&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samu0299&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=samu0299&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
   
