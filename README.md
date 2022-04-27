@@ -1,12 +1,8 @@
 
-Hi, I'm [Samruddhi](https://github.com/samu0299), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
-
-
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500" />
   
   
-I am an detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
-
+Hi, I'm [Samruddhi](https://github.com/samu0299), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 - ✍️ You can visit my portfolio at 
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, Nodejs, Express, Mongodb, React-Redux**
