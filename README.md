@@ -1,5 +1,3 @@
-<!-- ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
-<img src="https://user-images.githubusercontent.com/90475607/158020116-d544be7a-3b54-49ba-a3e6-b07f73ac8477.gif" width="100%" />
 
 Hi, I'm [Samruddhi](https://github.com/samu0299), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
